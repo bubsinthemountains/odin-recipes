@@ -17,7 +17,6 @@ img {
 
 body {
     background-color: darkolivegreen;
-    font-family: 'Rubik', sans-serif;
 }
 
 ul {
@@ -26,6 +25,7 @@ ul {
     list-style-position: inside;
     padding: 10px;
     margin: 100px;
+    font-family: 'Rubik', sans-serif;
 
 }
 
