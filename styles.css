@@ -1,0 +1,32 @@
+h1 {
+    color: palevioletred;
+    background-color: darkolivegreen;
+    font-size: 60px;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: darkolivegreen;
+}
+
+ul {
+    text-align: center;
+    list-style-type: square;
+    list-style-position: inside;
+    padding: 10px;
+    margin: 100px;
+
+}
+
+a {
+    color: aliceblue;
+    font-size: 36px;
+ }
