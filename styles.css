@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&family=Spectral&display=swap');
+
 h1 {
     color: palevioletred;
-    background-color: darkolivegreen;
     font-size: 60px;
     text-align: center;
+    font-family: 'Spectral';
 }
 
 img {
@@ -15,6 +17,7 @@ img {
 
 body {
     background-color: darkolivegreen;
+    font-family: 'Rubik', sans-serif;
 }
 
 ul {
